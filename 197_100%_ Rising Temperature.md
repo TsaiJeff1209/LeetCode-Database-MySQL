@@ -1,7 +1,7 @@
 # [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)
 
 ## 2018/5/24 beats 100.00 % of python3
-### Spend 328 ms
+### Spend 299 ms
 ```sql
 # Write your MySQL query statement below
 SELECT
