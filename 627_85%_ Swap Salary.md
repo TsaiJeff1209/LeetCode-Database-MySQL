@@ -4,5 +4,8 @@
 ### Spend 301 ms
 ```sql
 # Write your MySQL query statement below
-UPDATE salary SET sex = CASE sex WHEN 'f' THEN 'm' ELSE 'f' END;
+UPDATE
+    salary
+SET
+    sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;
 ```
